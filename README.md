@@ -197,6 +197,7 @@ Restart Codex and start using:
 ```text
 帮我优化这段文字
 ```
+---
 
 # Project Structure
 
@@ -217,6 +218,9 @@ bullshit-master
 ├── README.md
 └── LICENSE
 ```
+
+---
+
 # Roadmap
 
 ## v1.0
