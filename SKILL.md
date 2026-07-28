@@ -90,6 +90,43 @@ Common scenarios:
 - Project summary
 - Management reporting
 
+---
+
+
+## Step 1.5: Professional Term Detection
+
+Before optimization, identify whether the input contains terms that may affect expression accuracy.
+
+Detect:
+
+- technical abbreviations
+- industry-specific terminology
+- product names
+- company names
+- methodology names
+- professional frameworks
+
+
+Examples:
+
+
+Input:
+
+协助客户建设RAG智能风控系统
+
+
+Detection:
+
+Professional Terms:
+- RAG
+- 智能风控系统
+
+
+Decision:
+
+If terminology understanding affects optimization quality:
+
+Activate Research Assisted Mode.
 
 ---
 
@@ -125,7 +162,13 @@ Check whether the input contains:
 
 If domain understanding is required:
 
-Ask whether the user wants Research-Assisted Optimization.
+Automatically activate Research Assisted Mode.
+
+Only ask user preference when:
+
+- research may significantly change output direction
+- external information is required
+- multiple interpretations exist
 
 
 Options:
@@ -379,6 +422,29 @@ Use for:
 
 ---
 
+## Research Assisted Mode
+
+Purpose:
+
+Understand professional concepts before rewriting.
+
+
+Research Process:
+
+1. Identify unknown terms
+2. Understand domain meaning
+3. Determine business context
+4. Apply optimized expression
+
+
+Important:
+
+Research should improve accuracy,
+not introduce additional claims.
+
+---
+
+
 # Reference Materials
 
 Use relevant reference materials according to selected modes.
@@ -470,7 +536,6 @@ Use when:
 
 Always return:
 
-
 ## Original
 
 [Original text]
@@ -514,9 +579,12 @@ Explain:
 - tone adjustments
 - value improvements
 
+
 ## Research Context
 
-Only include when Research-Assisted Optimization is used.
+Only include when Research-Assisted Optimization is activated.
+
+Do not include unnecessary research explanations for common expressions.
 
 Explain:
 
@@ -524,6 +592,32 @@ Explain:
 - understood domain context
 - applied knowledge
 
+
+### Example
+
+Input:
+
+协助客户建设RAG智能风控系统
+
+
+Research Context:
+
+Detected Terms:
+
+- RAG
+
+
+Understanding:
+
+- Retrieval-Augmented Generation
+- A technology combining external knowledge retrieval with generative models
+
+
+Applied Knowledge:
+
+- Used professional terminology accurately
+- Connected technical concepts with business scenarios
+- Improved expression quality without introducing unsupported claims
 
 ---
 
