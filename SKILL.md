@@ -16,6 +16,11 @@ The goal is not to change the meaning, but to improve:
 - logical structure
 - communication effectiveness
 
+## Philosophy
+
+Bullshit Master does not create meaningless jargon.
+
+It helps users express real ideas, contributions, and value in a clearer and more professional way.
 
 ## When to use
 
@@ -50,36 +55,62 @@ Determine:
 
 If unclear, ask clarification or provide multiple styles.
 
-### Step 1: Identify context
 
-Determine the writing scenario:
+### Step 1: Identify Context
 
-- Business communication
-- Technical documentation
-- Work report
-- Academic writing
-- Daily communication
+Determine:
 
-
-### Step 2: Analyze
-
-Check:
-
-- informal wording
-- unclear expressions
-- redundant sentences
-- logical problems
-- inappropriate tone
+- writing scenario
+- target audience
+- communication purpose
 
 
-### Step 3: Rewrite
+### Step 2: Select Optimization Mode
+
+Choose the most appropriate mode:
+
+- Business Mode
+- Finance Mode
+- Technical Mode
+- Report Mode
+- Value Enhancement Mode
+
+
+### Step 3: Apply Relevant Guidelines
+
+Use corresponding reference materials when available.
+
+If multiple modes apply, combine relevant guidelines.
+
+### Step 4: Rewrite
 
 Improve the text while:
 
 - preserving original meaning
 - avoiding unsupported assumptions
-- maintaining accuracy
+- maintaining factual accuracy
 
+
+### Step 5: Quality Check
+
+Verify:
+
+- no fabricated information
+- no exaggerated claims
+- no meaningless buzzwords
+
+## Mode Selection Logic
+
+Select modes based on context:
+
+| Scenario | Mode |
+|---|---|
+| General text improvement without specific context | General Mode |
+| Emails and workplace communication | Business Mode |
+| Project achievements and summaries | Value Enhancement Mode |
+| Risk, finance, modeling topics | Finance Mode |
+| Technical documents | Technical Mode |
+| Management reporting | Report Mode |
 
 ## Optimization Modes
 
@@ -91,32 +122,6 @@ Focus on:
 - professionalism
 - concise communication
 - executive-friendly wording
-
-
-### Technical Mode
-
-Focus on:
-- accuracy
-- logical structure
-- technical terminology
-
-
-### Report Mode
-
-Focus on:
-- structured analysis
-- objective tone
-- formal expression
-
-
-### Finance Mode
-
-Focus on:
-- objective risk expression
-- analytical tone
-- professional financial terminology
-- avoiding emotional wording
-
 
 ### Value Enhancement Mode
 
@@ -135,6 +140,121 @@ Suitable for:
 - consulting documents
 - business proposals
 
+
+### Finance Mode
+
+Focus on:
+
+- objective risk expression
+- analytical tone
+- professional financial terminology
+- avoiding emotional wording
+
+Suitable for:
+
+- risk reports
+- model development documents
+- credit risk analysis
+- financial analysis
+
+### Technical Mode
+
+Focus on:
+- accuracy
+- logical structure
+- technical terminology
+
+Use:
+
+- technical documents
+- system design documents
+- methodology explanations
+
+
+### Report Mode
+
+Focus on:
+
+- structured analysis
+- objective tone
+- formal expression
+- decision-support perspective
+
+Use:
+
+- management reports
+- project summaries
+- executive presentations
+
+### General Mode
+
+Focus on:
+
+- clarity
+- readability
+- natural expression
+- preserving original intent
+
+Use when no specific scenario is identified.
+
+## Reference Materials
+
+Use relevant reference materials according to the selected optimization mode:
+
+### Value Enhancement Mode
+
+Read:
+
+- references/value-enhancement.md
+
+Use when:
+
+- summarizing achievements
+- writing project outcomes
+- preparing performance reviews
+- describing business value
+
+
+### Finance Mode
+
+Read:
+
+- references/finance-writing.md
+
+Use when:
+
+- writing risk reports
+- describing model performance
+- preparing financial analysis
+- communicating risk management topics
+
+
+### Business Mode
+
+Read:
+
+- references/business-writing.md
+
+Use when:
+
+- writing emails
+- preparing workplace communication
+- creating management updates
+- improving business documents
+
+### Technical Mode
+
+Use when available:
+
+- references/technical-writing.md
+
+
+### Report Mode
+
+Use when available:
+
+- references/report-writing.md
+
 ## Output Format
 
 Always return:
@@ -148,7 +268,24 @@ Always return:
 
 [Improved text]
 
+## Value Added
 
+Explain:
+
+- business value
+- contribution
+- expected impact
+
+## Style Variations
+
+Provide different styles when useful. Do not generate unnecessary variations for simple requests.
+
+Examples:
+
+- concise version
+- formal version
+- executive version
+  
 ## Key Improvements
 
 Explain:
