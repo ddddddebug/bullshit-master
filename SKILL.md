@@ -126,7 +126,7 @@ Decision:
 
 If terminology understanding affects optimization quality:
 
-Activate Research Assisted Mode.
+Activate Research Assisted Optimization.
 
 ---
 
@@ -136,56 +136,51 @@ Select one or more optimization modes based on context.
 
 Multiple modes should be combined when multiple objectives exist.
 
-Research Assisted Mode can be combined with other modes.
+Research Assisted Optimization can be combined with other modes.
 
 Examples:
 
 | Scenario | Mode |
 |---|---|
-| Unknown professional terminology | Research Assisted Mode |
-| Credit risk term optimization | Research Assisted Mode + Finance Mode |
-| Technical concept explanation | Research Assisted Mode + Technical Mode |
-| Consulting proposal improvement | Research Assisted Mode + Value Enhancement Mode |
+| Unknown professional terminology | Research Assisted Optimization |
+| Credit risk term optimization | Research Assisted Optimization + Finance Mode |
+| Technical concept explanation | Research Assisted Optimization + Technical Mode |
+| Consulting proposal improvement | Research Assisted Optimization + Value Enhancement Mode |
 
 ---
 
-## Step 3: Determine Research Requirement
+### Step 3: Research Assisted Optimization (Optional)
 
-Check whether the input contains:
+Determine whether research assistance is needed.
 
-- professional abbreviations
-- industry-specific terminology
-- technical concepts
-- company or product names
-- unclear domain expressions
+Use Research Assisted Optimization when:
 
+- professional abbreviations appear
+- domain-specific terminology is unclear
+- technical concepts require contextual understanding
+- company, product, or industry terms need clarification
 
-If domain understanding is required:
+Do not use research for:
 
-Automatically activate Research Assisted Mode.
-
-Only ask user preference when:
-
-- research may significantly change output direction
-- external information is required
-- multiple interpretations exist
+- simple rewriting
+- common business expressions
+- clear professional terminology
+- normal wording improvement
 
 
-Options:
+The purpose of research is:
 
-1. Direct Optimization
-
-Optimize using current understanding.
-
-
-2. Research-Assisted Optimization
-
-Research terminology and domain context before optimization.
+- understand terminology
+- identify domain context
+- improve expression accuracy
 
 
-Use:
+Research must not:
 
-- references/research-guidance.md
+- create new facts
+- add unsupported business outcomes
+- exaggerate user contributions
+- change the original meaning
 
 ---
 
@@ -193,7 +188,17 @@ Use:
 
 Use corresponding reference materials when available.
 
-If multiple modes apply, combine relevant guidelines.
+Research Assisted Optimization is an optional support capability.
+
+### Core Principle
+
+Understand more.
+Assume less.
+Express better.
+
+Research improves accuracy.
+Value enhancement improves visibility.
+Neither should create unsupported claims.
 
 
 ---
@@ -260,17 +265,13 @@ Suitable for:
 
 ## Value Enhancement Mode
 
-Focus on:
+### Principle
 
-- highlighting business value
-- explaining impact and contribution
-- connecting actions with outcomes
-- transforming task descriptions into achievement-oriented expressions
+Value Enhancement should make existing value clearer.
 
+Do not create new business outcomes or unsupported achievements.
 
-### Transformation Pattern
-
-Convert:
+Transformation priority:
 
 Task Description
 
@@ -280,8 +281,37 @@ Capability Building
 
 ↓
 
-Business Impact
+Business Impact (only when supported by original context)
 
+Value Enhancement should improve visibility of existing value.
+
+It should not invent new achievements, outcomes, or capabilities that are not supported by the original context.
+
+Focus on:
+
+- highlighting business value
+- explaining impact and contribution
+- connecting actions with outcomes
+- transforming task descriptions into achievement-oriented expressions
+
+### Transformation Pattern
+
+Preferred transformation:
+
+Task Description
+
+↓
+
+Capability Building
+
+↓
+
+Business Impact (only if supported)
+
+Business Impact should only be added when:
+- explicitly mentioned by user
+- clearly implied by context
+- supported by reference materials
 
 Example:
 
@@ -353,7 +383,11 @@ For finance and risk-related scenarios:
 
 Do not only describe technical activities.
 
-Always connect:
+When business impact is explicitly mentioned,
+connect technical work with business value.
+
+Otherwise:
+only describe capability building.
 
 Technical Work
 
@@ -420,27 +454,6 @@ Use for:
 - project summaries
 - executive presentations
 
----
-
-## Research Assisted Mode
-
-Purpose:
-
-Understand professional concepts before rewriting.
-
-
-Research Process:
-
-1. Identify unknown terms
-2. Understand domain meaning
-3. Determine business context
-4. Apply optimized expression
-
-
-Important:
-
-Research should improve accuracy,
-not introduce additional claims.
 
 ---
 
@@ -464,8 +477,6 @@ Use when:
 - describing business value
 
 
----
-
 ## Finance Mode
 
 Read:
@@ -479,6 +490,18 @@ Use when:
 - describing model performance
 - explaining credit risk scenarios
 - writing financial analysis
+
+## Research Assisted Optimization
+
+Read:
+
+- references/research-guidance.md
+
+Use when:
+
+- professional terms need explanation
+- domain knowledge is required
+- technical context is ambiguous
 
 
 ---
@@ -516,21 +539,6 @@ Use when available:
 
 ---
 
-## Research Assisted Mode
-
-Read:
-
-- references/research-guidance.md
-
-
-Use when:
-
-- professional terminology needs clarification
-- industry context is unclear
-- technical concepts require deeper understanding
-- user requests deep optimization
-
----
 
 # Output Format
 
@@ -548,13 +556,18 @@ Always return:
 
 ## Value Added
 
-Mandatory for project, finance, and business scenarios.
+Only include when the original text contains:
+- project contribution
+- business impact
+- achievement description
+
+Do not create value statements from simple task descriptions.
 
 Explain:
 
-- business value
+- identified value
 - technical contribution
-- expected impact
+- supported impact
 
 
 ## Style Variations
@@ -582,7 +595,7 @@ Explain:
 
 ## Research Context
 
-Only include when Research-Assisted Optimization is activated.
+Only include when Research Assisted Optimization is activated.
 
 Do not include unnecessary research explanations for common expressions.
 
@@ -639,6 +652,16 @@ Professional writing should be:
 - accurate
 - specific
 - useful
+
+## Research Safety Rules
+
+When using Research Assisted Optimization:
+
+- Explain terminology only
+- Do not invent project outcomes
+- Do not add unsupported business impact
+- Do not assume customer benefits
+- Keep original responsibility and scope
 
 ---
 
