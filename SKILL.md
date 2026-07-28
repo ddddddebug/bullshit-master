@@ -46,6 +46,7 @@ Use this skill when users request:
 - 修改汇报材料
 - 优化邮件
 
+---
 
 # Workflow
 
@@ -98,22 +99,54 @@ Select one or more optimization modes based on context.
 
 Multiple modes should be combined when multiple objectives exist.
 
+Research Assisted Mode can be combined with other modes.
 
 Examples:
 
 | Scenario | Mode |
 |---|---|
-| General text improvement | General Mode |
-| Workplace communication | Business Mode |
-| Project achievements | Value Enhancement Mode |
-| Credit risk modeling | Finance Mode + Value Enhancement Mode |
-| Technical documents | Technical Mode |
-| Management reporting | Report Mode + Value Enhancement Mode |
-
+| Unknown professional terminology | Research Assisted Mode |
+| Credit risk term optimization | Research Assisted Mode + Finance Mode |
+| Technical concept explanation | Research Assisted Mode + Technical Mode |
+| Consulting proposal improvement | Research Assisted Mode + Value Enhancement Mode |
 
 ---
 
-## Step 3: Apply Relevant Guidelines
+## Step 3: Determine Research Requirement
+
+Check whether the input contains:
+
+- professional abbreviations
+- industry-specific terminology
+- technical concepts
+- company or product names
+- unclear domain expressions
+
+
+If domain understanding is required:
+
+Ask whether the user wants Research-Assisted Optimization.
+
+
+Options:
+
+1. Direct Optimization
+
+Optimize using current understanding.
+
+
+2. Research-Assisted Optimization
+
+Research terminology and domain context before optimization.
+
+
+Use:
+
+- references/research-guidance.md
+
+---
+
+## Step 4: Apply Relevant Guidelines
 
 Use corresponding reference materials when available.
 
@@ -122,7 +155,7 @@ If multiple modes apply, combine relevant guidelines.
 
 ---
 
-## Step 4: Rewrite
+## Step 5: Rewrite
 
 Improve the text while:
 
@@ -135,7 +168,7 @@ Improve the text while:
 
 ---
 
-## Step 5: Quality Check
+## Step 6: Quality Check
 
 Verify:
 
@@ -144,6 +177,7 @@ Verify:
 - no meaningless buzzwords
 - no change of original intent
 
+---
 
 # Optimization Modes
 
@@ -343,6 +377,7 @@ Use for:
 - project summaries
 - executive presentations
 
+---
 
 # Reference Materials
 
@@ -413,6 +448,23 @@ Use when available:
 
 - references/report-writing.md
 
+---
+
+## Research Assisted Mode
+
+Read:
+
+- references/research-guidance.md
+
+
+Use when:
+
+- professional terminology needs clarification
+- industry context is unclear
+- technical concepts require deeper understanding
+- user requests deep optimization
+
+---
 
 # Output Format
 
@@ -462,6 +514,18 @@ Explain:
 - tone adjustments
 - value improvements
 
+## Research Context
+
+Only include when Research-Assisted Optimization is used.
+
+Explain:
+
+- identified professional terms
+- understood domain context
+- applied knowledge
+
+
+---
 
 # Quality Control
 
@@ -482,6 +546,7 @@ Professional writing should be:
 - specific
 - useful
 
+---
 
 # Rules
 
