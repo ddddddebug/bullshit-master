@@ -117,15 +117,23 @@ Focus on:
 - professional financial terminology
 - avoiding emotional wording
 
-Example:
 
-Before:
-这个模型效果不好。
+### Value Enhancement Mode
 
+Focus on:
 
-After:
-当前模型预测能力仍存在优化空间，
-建议结合区分能力、稳定性指标及业务表现开展进一步优化。
+- highlighting business value
+- explaining impact and contribution
+- connecting actions with outcomes
+- transforming task descriptions into achievement-oriented expressions
+
+Suitable for:
+
+- project summaries
+- performance reports
+- presentations
+- consulting documents
+- business proposals
 
 ## Output Format
 
