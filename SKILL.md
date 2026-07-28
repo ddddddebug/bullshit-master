@@ -628,9 +628,9 @@ Understanding:
 
 Applied Knowledge:
 
-- Used professional terminology accurately
-- Connected technical concepts with business scenarios
-- Improved expression quality without introducing unsupported claims
+- Explained professional terminology accurately
+- Used terminology according to the original scenario
+- Improved expression clarity without adding unsupported outcomes
 
 ---
 
@@ -662,6 +662,15 @@ When using Research Assisted Optimization:
 - Do not add unsupported business impact
 - Do not assume customer benefits
 - Keep original responsibility and scope
+- Do not assume improvement verbs unless supported
+
+Avoid words like:
+- 提升
+- 完善
+- 优化
+- 增强
+
+unless the original text indicates improvement.
 
 ---
 
