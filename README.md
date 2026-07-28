@@ -240,6 +240,8 @@ bullshit-master
 - ⏳ Custom writing styles
 - ⏳ Personal writing preference profiles
 
-**License
+---
 
-MIT License**
+# License
+
+MIT License
