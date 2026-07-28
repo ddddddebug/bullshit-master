@@ -7,20 +7,25 @@ description: Transform casual, vague, or informal text into professional, polish
 
 ## Purpose
 
-Bullshit Master is an AI writing optimization skill that helps transform casual, vague, or poorly structured expressions into clear, professional, and effective communication.
+Bullshit Master is an AI writing optimization skill that transforms casual, vague, or poorly structured expressions into clear, professional, and value-oriented communication.
 
-The goal is not to change the meaning, but to improve:
+The goal is not to change the original meaning, but to improve:
 
 - clarity
 - professionalism
 - logical structure
 - communication effectiveness
+- business value expression
+
 
 ## Philosophy
 
 Bullshit Master does not create meaningless jargon.
 
 It helps users express real ideas, contributions, and value in a clearer and more professional way.
+
+Professional communication should make value visible, not make words empty.
+
 
 ## When to use
 
@@ -31,9 +36,9 @@ Use this skill when users request:
 - rewrite sentences
 - make expression more professional
 - improve reports, emails, documents
-- make text more professional
 - improve communication quality
-- make wording sound more formal
+- make wording more formal
+- optimize business materials
 - 优化文本
 - 润色表达
 - 改写句子
@@ -41,152 +46,109 @@ Use this skill when users request:
 - 修改汇报材料
 - 优化邮件
 
-## Workflow
+
+# Workflow
 
 When receiving text:
 
-### Step 0: Understand user intent
+
+## Step 0: Understand User Intent
 
 Determine:
 
 - target audience
 - expected tone
-- purpose of communication
+- communication purpose
+- whether the user wants optimization, value enhancement, or professional rewriting
 
-If unclear, ask clarification or provide multiple styles.
+
+If unclear:
+
+- ask clarification
+- or provide multiple styles
 
 
-### Step 1: Identify Context
+---
+
+## Step 1: Identify Context
 
 Determine:
 
 - writing scenario
+- industry context
 - target audience
-- communication purpose
+- communication objective
 
 
-### Step 2: Select Optimization Mode
+Common scenarios:
 
-Choose the most appropriate mode:
+- Business communication
+- Financial analysis
+- Risk management
+- Technical documentation
+- Project summary
+- Management reporting
 
-- Business Mode
-- Finance Mode
-- Technical Mode
-- Report Mode
-- Value Enhancement Mode
+
+---
+
+## Step 2: Select Optimization Mode
+
+Select one or more optimization modes based on context.
+
+Multiple modes should be combined when multiple objectives exist.
 
 
-### Step 3: Apply Relevant Guidelines
+Examples:
+
+| Scenario | Mode |
+|---|---|
+| General text improvement | General Mode |
+| Workplace communication | Business Mode |
+| Project achievements | Value Enhancement Mode |
+| Credit risk modeling | Finance Mode + Value Enhancement Mode |
+| Technical documents | Technical Mode |
+| Management reporting | Report Mode + Value Enhancement Mode |
+
+
+---
+
+## Step 3: Apply Relevant Guidelines
 
 Use corresponding reference materials when available.
 
 If multiple modes apply, combine relevant guidelines.
 
-### Step 4: Rewrite
+
+---
+
+## Step 4: Rewrite
 
 Improve the text while:
 
 - preserving original meaning
 - avoiding unsupported assumptions
 - maintaining factual accuracy
+- improving professional expression
+- highlighting actual value
 
 
-### Step 5: Quality Check
+---
+
+## Step 5: Quality Check
 
 Verify:
 
 - no fabricated information
 - no exaggerated claims
 - no meaningless buzzwords
-
-## Mode Selection Logic
-
-Select modes based on context:
-
-| Scenario | Mode |
-|---|---|
-| General text improvement without specific context | General Mode |
-| Emails and workplace communication | Business Mode |
-| Project achievements and summaries | Value Enhancement Mode |
-| Risk, finance, modeling topics | Finance Mode |
-| Technical documents | Technical Mode |
-| Management reporting | Report Mode |
-
-## Optimization Modes
-
-Choose the appropriate style according to context:
-
-### Business Mode
-
-Focus on:
-- professionalism
-- concise communication
-- executive-friendly wording
-
-### Value Enhancement Mode
-
-Focus on:
-
-- highlighting business value
-- explaining impact and contribution
-- connecting actions with outcomes
-- transforming task descriptions into achievement-oriented expressions
-
-Suitable for:
-
-- project summaries
-- performance reports
-- presentations
-- consulting documents
-- business proposals
+- no change of original intent
 
 
-### Finance Mode
-
-Focus on:
-
-- objective risk expression
-- analytical tone
-- professional financial terminology
-- avoiding emotional wording
-
-Suitable for:
-
-- risk reports
-- model development documents
-- credit risk analysis
-- financial analysis
-
-### Technical Mode
-
-Focus on:
-- accuracy
-- logical structure
-- technical terminology
-
-Use:
-
-- technical documents
-- system design documents
-- methodology explanations
+# Optimization Modes
 
 
-### Report Mode
-
-Focus on:
-
-- structured analysis
-- objective tone
-- formal expression
-- decision-support perspective
-
-Use:
-
-- management reports
-- project summaries
-- executive presentations
-
-### General Mode
+## General Mode
 
 Focus on:
 
@@ -197,29 +159,96 @@ Focus on:
 
 Use when no specific scenario is identified.
 
-## Reference Materials
 
-Use relevant reference materials according to the selected optimization mode:
+---
 
-### Value Enhancement Mode
+## Business Mode
 
-Read:
+Focus on:
 
-- references/value-enhancement.md
-
-Use when:
-
-- summarizing achievements
-- writing project outcomes
-- preparing performance reviews
-- describing business value
+- professionalism
+- concise communication
+- executive-friendly wording
+- clear action direction
 
 
-### Finance Mode
+Suitable for:
 
-Read:
+- emails
+- workplace communication
+- business documents
 
-- references/finance-writing.md
+
+---
+
+## Value Enhancement Mode
+
+Focus on:
+
+- highlighting business value
+- explaining impact and contribution
+- connecting actions with outcomes
+- transforming task descriptions into achievement-oriented expressions
+
+
+### Transformation Pattern
+
+Convert:
+
+Task Description
+
+↓
+
+Capability Building
+
+↓
+
+Business Impact
+
+
+Example:
+
+Input:
+
+帮助客户开发A卡
+
+
+Transformation:
+
+Task:
+
+开发A卡
+
+
+Capability:
+
+建设信用风险评估体系
+
+
+Business Impact:
+
+提升客户风险识别及精细化管理能力
+
+
+Suitable for:
+
+- project summaries
+- performance reports
+- consulting documents
+- business proposals
+
+
+---
+
+## Finance Mode
+
+Focus on:
+
+- objective risk expression
+- analytical tone
+- professional financial terminology
+- avoiding emotional wording
+
 
 Use when:
 
@@ -227,37 +256,168 @@ Use when:
 - describing model performance
 - preparing financial analysis
 - communicating risk management topics
+- credit scoring
+- A-card / B-card development
+- risk model development
+- credit risk modeling
 
 
-### Business Mode
+Suitable for:
+
+- risk reports
+- model development documents
+- credit risk analysis
+- financial analysis
+
+
+### Finance Domain Enhancement Rules
+
+For finance and risk-related scenarios:
+
+Do not only describe technical activities.
+
+Always connect:
+
+Technical Work
+
+↓
+
+Risk Management Capability
+
+↓
+
+Business Value
+
+
+Example:
+
+
+Input:
+
+帮助客户开发A卡
+
+
+Avoid:
+
+协助客户完成A卡开发工作。
+
+
+Prefer:
+
+协助客户完成A卡体系建设，构建基于数据驱动的信用风险评估能力，完善客户准入及风险分层管理体系，提升风险管理精细化水平。
+
+
+---
+
+## Technical Mode
+
+Focus on:
+
+- accuracy
+- logical structure
+- technical terminology
+
+
+Use for:
+
+- technical documents
+- system design documents
+- methodology explanations
+
+
+---
+
+## Report Mode
+
+Focus on:
+
+- structured analysis
+- objective tone
+- formal expression
+- decision-support perspective
+
+
+Use for:
+
+- management reports
+- project summaries
+- executive presentations
+
+
+# Reference Materials
+
+Use relevant reference materials according to selected modes.
+
+
+## Value Enhancement Mode
+
+Read:
+
+- references/value-enhancement.md
+
+
+Use when:
+
+- summarizing achievements
+- writing project outcomes
+- describing business value
+
+
+---
+
+## Finance Mode
+
+Read:
+
+- references/finance-writing.md
+
+
+Use when:
+
+- writing risk documents
+- describing model performance
+- explaining credit risk scenarios
+- writing financial analysis
+
+
+---
+
+## Business Mode
 
 Read:
 
 - references/business-writing.md
+
 
 Use when:
 
 - writing emails
 - preparing workplace communication
 - creating management updates
-- improving business documents
 
-### Technical Mode
+
+---
+
+## Technical Mode
 
 Use when available:
 
 - references/technical-writing.md
 
 
-### Report Mode
+---
+
+## Report Mode
 
 Use when available:
 
 - references/report-writing.md
 
-## Output Format
+
+# Output Format
 
 Always return:
+
 
 ## Original
 
@@ -268,45 +428,62 @@ Always return:
 
 [Improved text]
 
+
 ## Value Added
+
+Mandatory for project, finance, and business scenarios.
 
 Explain:
 
 - business value
-- contribution
+- technical contribution
 - expected impact
+
 
 ## Style Variations
 
-Provide different styles when useful. Do not generate unnecessary variations for simple requests.
+Provide different styles when useful.
+
+Do not generate unnecessary variations for simple requests.
 
 Examples:
 
 - concise version
 - formal version
 - executive version
-  
+
+
 ## Key Improvements
 
 Explain:
+
 - wording improvements
 - structure improvements
 - tone adjustments
+- value improvements
 
-## Quality Control
+
+# Quality Control
 
 Avoid:
+
 - meaningless buzzwords
 - excessive formal expressions
 - inflated claims
-- changing the original intent
+- changing original intent
 - unnecessary complexity
 - vague statements without actionable meaning
 
-Professional writing should be clear, accurate, and useful.
+
+Professional writing should be:
+
+- clear
+- accurate
+- specific
+- useful
 
 
-## Rules
+# Rules
 
 - Do not fabricate information
 - Do not exaggerate facts
