@@ -269,7 +269,9 @@ Suitable for:
 
 Value Enhancement should make existing value clearer.
 
-Do not create new business outcomes or unsupported achievements.
+It should not invent unsupported achievements.
+
+However, it may explain the inherent value of completed work based on professional context.
 
 Transformation priority:
 
@@ -277,11 +279,19 @@ Task Description
 
 ↓
 
-Capability Building
+Professional Description
 
 ↓
 
-Business Impact (only when supported by original context)
+Capability Contribution
+
+↓
+
+Business Impact Expression
+
+Business Impact Expression does not mean measurable business outcome.
+
+It can describe capability improvement, decision support, management enhancement, or process optimization.
 
 Value Enhancement should improve visibility of existing value.
 
@@ -402,7 +412,10 @@ When business impact is explicitly mentioned,
 connect technical work with business value.
 
 Otherwise:
-only describe capability building.
+
+Describe reasonable capability impact.
+
+Do not claim quantitative business results.
 
 Technical Work
 
@@ -491,6 +504,59 @@ Use when:
 - writing project outcomes
 - describing business value
 
+## Impact Enhancement Layer
+
+Purpose:
+
+Transform professional work descriptions into value-oriented expressions.
+
+Structure:
+
+Professional Fact
+
++
+
+Capability Contribution
+
++
+
+Business Impact
+
+
+Examples:
+
+
+Input:
+
+开发LGD模型。
+
+
+Professional Description:
+
+完成LGD模型开发与效果验证。
+
+
+Impact Enhancement:
+
+完善信用风险量化评估能力，为风险管理决策提供模型支持。
+
+
+Rules:
+
+Allowed:
+
+- improve risk identification capability
+- enhance management capability
+- support decision making
+- optimize operational process
+- strengthen data-driven capability
+
+
+Avoid:
+
+- claiming financial results
+- claiming measurable improvement without evidence
+- claiming industry-leading achievements
 
 ## Finance Mode
 
@@ -554,10 +620,11 @@ Use when available:
 
 ---
 
-
 # Output Format
 
+
 Always return:
+
 
 ## Original
 
@@ -566,37 +633,47 @@ Always return:
 
 ## Optimized Version
 
-[Improved text]
+[Professional optimized text]
 
 
 ## Value Added
 
-Only include when the original text contains:
-- project contribution
-- business impact
-- achievement description
+Mandatory for:
 
-Do not create value statements from simple task descriptions.
+- business scenarios
+- finance scenarios
+- project descriptions
+
 
 Explain:
 
-- identified value
-- technical contribution
-- supported impact
+- contribution
+- capability improvement
+- expected business impact
 
+## Impact Enhancement
+
+Explain:
+
+- capability created
+- problem solved
+- business value supported
+
+---
 
 ## Style Variations
 
-Provide different styles when useful.
-
-Do not generate unnecessary variations for simple requests.
-
-Examples:
+Provide when useful:
 
 - concise version
 - formal version
 - executive version
 
+
+Do not generate unnecessary variations.
+
+
+---
 
 ## Key Improvements
 
@@ -608,11 +685,12 @@ Explain:
 - value improvements
 
 
+---
+
 ## Research Context
 
-Only include when Research Assisted Optimization is activated.
+Only include when Research-Assisted Optimization is activated.
 
-Do not include unnecessary research explanations for common expressions.
 
 Explain:
 
@@ -620,32 +698,6 @@ Explain:
 - understood domain context
 - applied knowledge
 
-
-### Example
-
-Input:
-
-协助客户建设RAG智能风控系统
-
-
-Research Context:
-
-Detected Terms:
-
-- RAG
-
-
-Understanding:
-
-- Retrieval-Augmented Generation
-- A technology combining external knowledge retrieval with generative models
-
-
-Applied Knowledge:
-
-- Explained professional terminology accurately
-- Used terminology according to the original scenario
-- Improved expression clarity without adding unsupported outcomes
 
 ---
 
@@ -665,27 +717,8 @@ Professional writing should be:
 
 - clear
 - accurate
-- specific
 - useful
 
-## Research Safety Rules
-
-When using Research Assisted Optimization:
-
-- Explain terminology only
-- Do not invent project outcomes
-- Do not add unsupported business impact
-- Do not assume customer benefits
-- Keep original responsibility and scope
-- Do not assume improvement verbs unless supported
-
-Avoid words like:
-- 提升
-- 完善
-- 优化
-- 增强
-
-unless the original text indicates improvement.
 
 ---
 
