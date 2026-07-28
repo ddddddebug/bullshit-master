@@ -294,6 +294,21 @@ Focus on:
 - connecting actions with outcomes
 - transforming task descriptions into achievement-oriented expressions
 
+### Capability Expansion Rule
+
+When transforming technical or project descriptions:
+
+Allowed:
+- explain inherent capabilities of mentioned technologies
+- clarify professional terminology
+- improve expression accuracy
+
+Avoid:
+- adding unmentioned modules
+- assuming implementation scope
+- adding specific business processes
+- inventing project deliverables
+
 ### Transformation Pattern
 
 Preferred transformation:
