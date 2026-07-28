@@ -108,3 +108,29 @@ General communication
 - Reduced emotional expression
 - Maintained constructive tone
 - Improved communication effectiveness
+
+---
+
+# Example 5: Value Enhancement Mode
+
+## Context
+
+Scenario:
+Project summary / achievement report
+
+
+## Original
+
+帮助客户开发A卡。
+
+
+## Optimized Version
+
+协助客户完成A卡体系建设，填补客户信用风险量化评估能力空白，构建更加精细化的风险识别体系，提升客户风险管理效率。
+
+
+## Key Improvements
+
+- Transformed task description into value-oriented expression
+- Highlighted business impact
+- Connected project implementation with customer value
