@@ -31,34 +31,9 @@ Internal work communication
 
 ---
 
-# Example 2: Finance Mode
-
-## Context
-
-Scenario:
-Risk management report
 
 
-## Original
-
-这个模型效果不好，需要重新调整。
-
-
-## Optimized Version
-
-当前模型预测能力仍存在优化空间，建议结合模型区分能力、稳定性指标及业务表现开展进一步优化。
-
-
-## Key Improvements
-
-- Avoided subjective judgment
-- Added objective analytical expression
-- Used professional risk modeling terminology
-
-
----
-
-# Example 3: Technical Documentation
+# Example 2: Technical Documentation
 
 ## Context
 
@@ -85,7 +60,7 @@ Technical design document
 
 ---
 
-# Example 4: Daily Communication
+# Example 3: Daily Communication
 
 ## Context
 
@@ -108,6 +83,33 @@ General communication
 - Reduced emotional expression
 - Maintained constructive tone
 - Improved communication effectiveness
+
+---
+
+# Example 4: Finance Mode
+
+## Context
+
+Scenario:
+Risk management report
+
+
+## Original
+
+这个模型效果不好，需要重新调整。
+
+
+## Optimized Version
+
+当前模型预测能力仍存在优化空间，建议结合模型区分能力、稳定性指标及业务表现开展进一步优化。
+
+
+## Key Improvements
+
+- Avoided subjective judgment
+- Added objective analytical expression
+- Used professional risk modeling terminology
+
 
 ---
 
