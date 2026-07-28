@@ -198,7 +198,7 @@ Restart Codex and start using:
 帮我优化这段文字
 ```
 
-P# Project Structure
+# Project Structure
 
 ```text
 bullshit-master
