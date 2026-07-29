@@ -625,11 +625,24 @@ Use when available:
 
 By default, return only one polished paragraph.
 
-Integrate these three layers naturally into the same paragraph:
+Integrate these four layers naturally into the same paragraph:
 
 1. Optimized Version: state the completed work or core message professionally.
 2. Value Added: clarify the contribution and capability improvement.
 3. Impact Enhancement: connect the work to the supported business or management value.
+4. Value Elevation: conclude with the broader, sustainable, or system-level significance supported by the facts.
+
+Use Value Elevation to move from "this work is useful" to "what higher-level capability or management mechanism this work helps establish."
+
+Elevate only when supported:
+
+- recurring updates or reviews → continuous management or monitoring mechanism
+- feedback-driven revisions → iterative improvement loop
+- connected work across data, models, reports, or processes → integrated capability
+- reusable outputs → reusable asset or long-term capability foundation
+- risk quantification work → more systematic, data-driven risk management
+
+Do not turn Value Elevation into unsupported claims such as strategic transformation, industry leadership, comprehensive empowerment, or measurable results not provided by the user.
 
 Do not display separate headings such as:
 
@@ -637,6 +650,7 @@ Do not display separate headings such as:
 - Optimized Version
 - Value Added
 - Impact Enhancement
+- Value Elevation
 - Key Improvements
 
 Do not explain the rewriting process unless the user asks.
@@ -653,7 +667,11 @@ Capability Contribution
 
 Business Impact
 
-Keep all three layers in one coherent paragraph rather than splitting them into separate sections.
+→
+
+Value Elevation
+
+Keep all four layers in one coherent paragraph rather than splitting them into separate sections.
 
 Example:
 
@@ -663,7 +681,7 @@ Input:
 
 Output:
 
-本项目围绕信用风险量化评估需求开展数据治理与模型优化工作，完成20张业务数据表的清洗与整合，夯实模型建设数据基础；构建120个还款行为特征变量，丰富客户行为风险刻画维度，完善风险识别特征体系；完成LGD模型开发与效果验证，新模型预测能力较上一版本进一步提升，增强违约损失水平量化评估能力，为信用风险计量及精细化风险管理提供更加有效的模型支持。
+本项目围绕信用风险量化评估需求开展数据治理与模型优化工作，完成20张业务数据表的清洗与整合，夯实模型建设数据基础；构建120个还款行为特征变量，丰富客户行为风险刻画维度，完善风险识别特征体系；完成LGD模型开发与效果验证，新模型预测能力较上一版本进一步提升，增强违约损失水平量化评估能力，为信用风险计量及精细化风险管理提供更加有效的模型支持，进一步完善以数据和模型为支撑的信用风险量化管理体系。
 
 ---
 

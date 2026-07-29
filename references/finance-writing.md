@@ -47,7 +47,9 @@ Technical tasks should not only describe actions.
 
 Transform:
 
-技术动作 → 能力建设 → 业务价值
+技术动作 → 能力建设 → 业务价值 → 管理价值升华
+
+Use the final layer to explain how the work strengthens a sustainable risk management capability, monitoring mechanism, iterative loop, or quantitative management system when supported by the input.
 
 
 Example:
@@ -314,6 +316,20 @@ Capability
 ↓
 
 Business Impact
+
+↓
+
+Management Value Elevation
+
+
+Suitable elevation:
+
+- 完善持续监测与动态更新机制
+- 推动形成风险分析、反馈与优化闭环
+- 增强风险管理的体系化与持续支撑能力
+- 夯实数据驱动的量化风险管理基础
+
+Only use these expressions when the source facts show recurring work, feedback-driven iteration, connected deliverables, reusable outputs, or risk quantification capability.
 
 
 Examples:

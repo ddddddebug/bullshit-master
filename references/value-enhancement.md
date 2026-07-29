@@ -12,21 +12,21 @@ The goal is to make professional contributions more visible by identifying:
 - what capability was created
 - what problem was solved
 - what business value was supported
+- what higher-level capability, mechanism, or management foundation was strengthened
 
 
 ---
 
 # Core Philosophy
 
-A strong professional expression should answer four questions:
+A strong professional expression should answer five questions:
 
 1. What did you do?
 2. How did you do it?
 3. What capability did it create?
 4. Why does it matter?
+5. What broader or sustainable value does it help establish?
 
-
-The transformation framework:
 
 The transformation framework:
 
@@ -44,10 +44,84 @@ Capability
 
 Business Impact (when reasonably supported)
 
++
+
+Value Elevation (when evidence permits)
 
 Important:
 
 The strength of value expression should not exceed the evidence provided by the original text.
+
+Value Elevation should synthesize existing facts into a higher-level conclusion. It should not introduce a new achievement.
+
+---
+
+# Value Elevation Layer
+
+## Purpose
+
+Move beyond immediate usefulness and explain the broader capability, management mechanism, or sustainable foundation supported by the work.
+
+Use this layer when the input shows one or more of the following:
+
+- recurring updates, monitoring, or reviews
+- feedback-driven revision or iteration
+- connected work across data, models, reports, or processes
+- reusable outputs or accumulated assets
+- quantitative analysis that strengthens a management system
+
+Preferred mappings:
+
+Recurring Update
+
+↓
+
+Continuous Monitoring or Management Mechanism
+
+
+Feedback and Revision
+
+↓
+
+Iterative Improvement Loop
+
+
+Connected Deliverables
+
+↓
+
+Integrated or Systematic Capability
+
+
+Reusable Output
+
+↓
+
+Reusable Asset or Long-Term Capability Foundation
+
+
+Risk Quantification
+
+↓
+
+More Systematic and Data-Driven Risk Management
+
+
+Allowed expressions:
+
+- 进一步完善持续监测与动态更新机制
+- 推动形成分析、反馈与优化的管理闭环
+- 提升相关工作的体系化与可持续支撑能力
+- 夯实数据驱动管理与决策的长期能力基础
+- 进一步完善量化风险管理体系
+
+Avoid:
+
+- 打造行业领先体系
+- 实现战略转型
+- 全面赋能业务
+- 形成全流程闭环 when the input shows only one isolated task
+- claiming organization-wide or long-term impact without supporting context
 
 
 Example:
@@ -720,14 +794,15 @@ Return one coherent paragraph that integrates:
 1. completed work and objective facts
 2. capability improvement and professional contribution
 3. supported business value
+4. broader capability, management mechanism, or sustainable value elevation
 
-Connect the three layers naturally. Do not split them into separate paragraphs or label them as "Optimized Version," "Value Added," or "Impact Enhancement" unless the user explicitly requests a structured analysis.
+Connect the four layers naturally. Do not split them into separate paragraphs or label them as "Optimized Version," "Value Added," "Impact Enhancement," or "Value Elevation" unless the user explicitly requests a structured analysis.
 
 Important:
 
 The business value statement should be concise.
 
-Do not make the value statement longer than the factual description.
+Keep the combined business impact and value elevation shorter than the factual description.
 
 The final expression should make users' contributions visible while remaining accurate and credible.
 
