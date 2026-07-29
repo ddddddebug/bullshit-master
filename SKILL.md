@@ -623,41 +623,47 @@ Use when available:
 # Output Format
 
 
-Always return:
+By default, return only one polished paragraph.
 
+Integrate these three layers naturally into the same paragraph:
 
-## Original
+1. Optimized Version: state the completed work or core message professionally.
+2. Value Added: clarify the contribution and capability improvement.
+3. Impact Enhancement: connect the work to the supported business or management value.
 
-[Original text]
+Do not display separate headings such as:
 
+- Original
+- Optimized Version
+- Value Added
+- Impact Enhancement
+- Key Improvements
 
-## Optimized Version
+Do not explain the rewriting process unless the user asks.
 
-[Professional optimized text]
+For business, finance, and project scenarios, the paragraph should follow:
 
+Professional Fact
 
-## Value Added
+→
 
-Mandatory for:
+Capability Contribution
 
-- business scenarios
-- finance scenarios
-- project descriptions
+→
 
+Business Impact
 
-Explain:
+Keep all three layers in one coherent paragraph rather than splitting them into separate sections.
 
-- contribution
-- capability improvement
-- expected business impact
+Example:
 
-## Impact Enhancement
+Input:
 
-Explain:
+本项目完成20张数据表的清洗与整合，构建120个还款行为变量，并完成LGD模型开发。经验证，新模型的预测能力较上一版本进一步提升。
 
-- capability created
-- problem solved
-- business value supported
+Output:
+
+本项目围绕信用风险量化评估需求开展数据治理与模型优化工作，完成20张业务数据表的清洗与整合，夯实模型建设数据基础；构建120个还款行为特征变量，丰富客户行为风险刻画维度，完善风险识别特征体系；完成LGD模型开发与效果验证，新模型预测能力较上一版本进一步提升，增强违约损失水平量化评估能力，为信用风险计量及精细化风险管理提供更加有效的模型支持。
 
 ---
 
@@ -675,14 +681,7 @@ Do not generate unnecessary variations.
 
 ---
 
-## Key Improvements
-
-Explain:
-
-- wording improvements
-- structure improvements
-- tone adjustments
-- value improvements
+Only provide style variations, key improvements, the original text, or separate analysis sections when the user explicitly requests them.
 
 
 ---

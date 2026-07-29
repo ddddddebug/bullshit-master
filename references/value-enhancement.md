@@ -715,18 +715,17 @@ Value Enhancement output should follow:
 
 Recommended Output Structure:
 
-Paragraph 1:
-Describe completed work objectively.
+Return one coherent paragraph that integrates:
 
-Paragraph 2:
-Explain capability improvement and professional contribution.
+1. completed work and objective facts
+2. capability improvement and professional contribution
+3. supported business value
 
-Paragraph 3:
-Summarize supported business value.
+Connect the three layers naturally. Do not split them into separate paragraphs or label them as "Optimized Version," "Value Added," or "Impact Enhancement" unless the user explicitly requests a structured analysis.
 
 Important:
 
-The business value paragraph should be concise.
+The business value statement should be concise.
 
 Do not make the value statement longer than the factual description.
 
