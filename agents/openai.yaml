@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bullshit Master"
+  short_description: "Professional rewriting with evidence-based value elevation"
+  default_prompt: "Use $bullshit-master to turn this draft into one concise, professional, value-oriented paragraph."

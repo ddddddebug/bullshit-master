@@ -53,14 +53,14 @@ Project summary / achievement report
 
 ## Optimized Version
 
-协助客户完成A卡体系建设，填补客户在信用风险量化评估领域的能力空白，建立更加科学的风险识别与客户分层体系，推动风险管理由经验驱动向数据驱动转型。
+协助客户完成A卡模型开发，构建数据驱动的申请风险评估能力，为客户准入与风险分层提供模型支持，进一步夯实信用风险量化管理基础。
 
 
 ## Key Improvements
 
 - Transformed task description into value-oriented expression
 - Highlighted business impact and customer value
-- Connected technical work with strategic outcomes
+- Added a higher-level value conclusion within the evidence boundary
 
 
 ---
@@ -80,7 +80,7 @@ Risk management report
 
 ## Optimized Version
 
-当前模型预测能力仍存在优化空间，建议结合模型区分能力、稳定性指标及业务表现开展进一步分析，并针对性优化特征体系及模型参数配置。
+当前模型预测能力仍存在优化空间，建议结合模型区分能力、稳定性指标及业务表现开展进一步分析，并根据分析结果确定后续优化方向。
 
 
 ## Key Improvements
@@ -134,7 +134,7 @@ Management report
 
 ## Optimized Version
 
-近期风险指标呈现一定上升趋势，资产质量表现存在阶段性压力，建议持续关注风险变化情况，并结合业务发展情况开展针对性策略优化。
+近期相关风险指标呈现上升趋势，建议持续跟踪指标变化，并结合业务表现进一步分析风险成因，为后续管理措施调整提供依据。
 
 
 ## Key Improvements
@@ -161,13 +161,13 @@ Resume / performance summary
 
 ## Optimized Version
 
-参与模型优化工作，围绕特征体系、模型效果及稳定性表现开展分析与改进，提升模型在业务场景中的应用效果。
+参与模型优化工作，围绕现有模型表现开展分析与改进，为模型在业务场景中的持续优化提供支持。
 
 
 ## Key Improvements
 
 - Enhanced contribution description
-- Added specific work dimensions
+- Clarified the contribution without inventing specific work dimensions
 - Avoided exaggerating personal impact
 
 

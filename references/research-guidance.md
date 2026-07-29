@@ -11,10 +11,10 @@ The goal is not to generate additional information, but to improve accuracy and 
 
 Consider research when text contains:
 
-- professional abbreviations
-- industry-specific terminology
-- technical concepts
-- company or product names
+- unfamiliar or ambiguous professional abbreviations
+- industry-specific terminology whose meaning affects the rewrite
+- technical concepts that cannot be interpreted confidently from context
+- company or product names that require clarification
 - unfamiliar domain expressions
 
 
@@ -45,23 +45,18 @@ Business:
 
 # User Control
 
-Research should not always run automatically.
+Do not interrupt the user merely because a professional term appears.
 
-When professional terms are detected, ask:
+Proceed directly when the term is common, clearly used, or already explained by context. Examples include A-card, LGD, API, CRM, and other established terms used in their standard meaning.
 
-"检测到专业术语 xxx，是否需要进行背景调研后优化？"
+Ask whether research is desired only when:
 
+- multiple interpretations would materially change the rewrite
+- the term is proprietary, niche, or unfamiliar
+- current information is needed to ensure accuracy
+- research would add noticeable latency or external lookup
 
-Options:
-
-1. Direct Optimization
-
-Optimize based on current understanding.
-
-
-2. Research-Assisted Optimization
-
-Research terminology and domain context before optimization.
+If research is unnecessary, optimize directly without displaying a Research Context section.
 
 
 # Research Workflow
